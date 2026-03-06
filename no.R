@@ -1,3 +1,8 @@
+library(visOmopResults)
+library(gt)
+
+
+
 # ## Reference to the CDM vocabulary tables
 # 
 # ```{r, echo=FALSE}
