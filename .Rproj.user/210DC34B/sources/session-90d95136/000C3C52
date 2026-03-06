@@ -1,0 +1,31 @@
+{
+    "id": "000C3C52",
+    "path": "~/GitHub/CodelistGeneratorPresentation/training_codelistgenerator.qmd",
+    "project_path": "training_codelistgenerator.qmd",
+    "type": "quarto_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1772722065013.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "916,27",
+        "scrollLine": "907",
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "7769:7431.81787109375"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1772797257,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1772797257,
+    "read_only": false,
+    "read_only_alternatives": []
+}
